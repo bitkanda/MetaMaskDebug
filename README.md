@@ -9,3 +9,4 @@ Two main functionalities are supported:
 2.WebView's DEBUG mode is unlocked, facilitating source code debugging of DApps using "inspect with chrome developer tools" - available for a fee.
 
 
+
