@@ -18,6 +18,8 @@ MetaMask 移动版 Android 版本号为 v7.3.0。
 请下载我们的最新应用程序版本以进行安装。由于文件稍大，请使用下载管理器（如迅雷或 BitTorrent）协助下载。下载链接如下：
 https://github.com/bitkanda/MetaMaskDebug/releases
 
+下面有大量的图片，如果您无法正常显示图片，需要科学上网。
+
 安装指南：
 1. 安装界面。
 <br>
