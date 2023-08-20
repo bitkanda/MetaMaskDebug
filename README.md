@@ -1,7 +1,11 @@
 # MetaMaskDebug
 MetaMask mobile wallet enables WebView debugging mode, allowing direct debugging of DAPP using Google Chrome.
 
-The version number of MetaMask mobile for Android is v6.5.0.
+In addition, based on the official source code, we make the following commitments: We will not collect user's private data, such as private keys or mnemonic phrases, and there are no backdoors. The primary purpose of modifying this wallet is for our own use and to facilitate compatibility testing with applications in the cryptocurrency industry. As a source of revenue, users will be charged for debugging Dapps.
+
+This application has undergone minor modifications based on the official source code, with the following changes.
+
+The version number of MetaMask mobile for Android is v7.3.0.
 Two main functionalities are supported:
 
 1.HTTPS DApps do not validate certificates, making it convenient for developers to debug DApps within the local network--free.
