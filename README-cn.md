@@ -1,4 +1,5 @@
 # MetaMaskDebug
+[EN README](README.md)
 MetaMask 移动钱包启用了 WebView 调试模式，允许使用 Google Chrome 直接调试 DAPP。
 
 此外，基于官方源码，我们做出以下承诺：我们不会收集用户的私密数据，如私钥或助记词，也没有后门。修改这个钱包的主要目的是为了我们自己的使用，并为加密行业应用的兼容性测试提供便利。作为收入来源，用户将需要为 Dapp 调试付费。
