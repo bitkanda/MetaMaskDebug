@@ -11,3 +11,4 @@ Two main functionalities are supported:
 
 ![Install](pic/1.jpg)
 
+<img src="pic/1.jpg" alt="Install" width="50%" height="50%">
