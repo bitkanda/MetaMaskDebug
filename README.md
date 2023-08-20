@@ -12,6 +12,9 @@ Two main functionalities are supported:
 
 2.WebView's DEBUG mode is unlocked, facilitating source code debugging of DApps using "inspect with chrome developer tools" - available for a fee.
 
+Please download our latest version of the application for installation. The file is a bit large, so please use a download manager for assistance, such as Thunder or BitTorrent. The download link is as follows:
+https://github.com/bitkanda/MetaMaskDebug/releases
+
 
 <img src="pic/1.jpg" alt="Install" width="50%" height="50%">
 <img src="pic/2.jpg" alt="Install" width="50%" height="50%">
