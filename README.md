@@ -17,18 +17,31 @@ https://github.com/bitkanda/MetaMaskDebug/releases
 
 Installation Guide:
 1.Installation Interface.
+<br>
 <img src="pic/1.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 2.Installation in progress.
+<br>
 <img src="pic/2.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 3.Welcome Screen.
+<br>
 <img src="pic/3.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 4.Wallet Interface.
+<br>
 <img src="pic/4.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 5.Add BNB Smart Chain Network.
+<br>
 <img src="pic/5.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 6.Locate BNB Smart Chain and click 'Add'.
+<br>
 <img src="pic/6.jpg" alt="Install" width="50%" height="50%"/>
+<br>
 7.Click 'Approve'.
+<br>
 <img src="pic/7.jpg" alt="Install" width="50%" height="50%"/>
 <br>
 8.The new network has been added. Do you want to switch to this network? Click 'Switch to network'.
