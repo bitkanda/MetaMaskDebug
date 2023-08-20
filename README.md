@@ -1,4 +1,7 @@
 # MetaMaskDebug
+
+[中文版 README](README-cn.md)
+
 MetaMask mobile wallet enables WebView debugging mode, allowing direct debugging of DAPP using Google Chrome.
 
 In addition, based on the official source code, we make the following commitments: We will not collect user's private data, such as private keys or mnemonic phrases, and there are no backdoors. The primary purpose of modifying this wallet is for our own use and to facilitate compatibility testing with applications in the cryptocurrency industry. As a source of revenue, users will be charged for debugging Dapps.
