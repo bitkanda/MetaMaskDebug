@@ -9,6 +9,22 @@ Two main functionalities are supported:
 2.WebView's DEBUG mode is unlocked, facilitating source code debugging of DApps using "inspect with chrome developer tools" - available for a fee.
 
 
-![Install](pic/1.jpg)
-
 <img src="pic/1.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/2.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/3.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/4.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/5.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/6.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/7.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/8.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/9.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/10.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/11.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/12.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/12.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/13.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/14.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/15.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/16.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/17.jpg" alt="Install" width="50%" height="50%">
+<img src="pic/18.jpg" alt="Install" width="50%" height="50%">
