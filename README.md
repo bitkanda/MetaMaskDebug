@@ -87,4 +87,4 @@ Displaying the monthly subscription fee, click 'Confirm.' Please note that this 
 <img src="pic/18.png" alt="Install" width="50%" height="50%"/>
 <br>
 If you have any further questions, please visit https://github.com/bitkanda/MetaMaskDebug/issues to submit them. Thank you, and happy coding to everyone!
-
+#
